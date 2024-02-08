@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Mounes 👋
 
-<!--
-**mouneszawal/mouneszawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Machine Learning Engineer Specializing in Large Language Models!
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on developing state-of-the-art language models.
+- 🌱 I'm constantly learning and keeping up with the latest in AI and machine learning.
+- 👯 I'm looking to collaborate on innovative projects in NLP and AI.
+- 🥅 2024 Goals: Contribute to open source projects and publish research papers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin
+[linkedin-url]: https://linkedin.com/in/mouneszaval
